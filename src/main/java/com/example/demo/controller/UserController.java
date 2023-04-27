@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import com.example.demo.entity.User;
+import  com.example.demo.entity.User;
 import com.example.demo.mapper.UserMapper;
 import com.example.demo.vo.Page;
 import jakarta.annotation.Resource;
